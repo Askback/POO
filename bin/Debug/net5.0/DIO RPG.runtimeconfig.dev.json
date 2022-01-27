@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\askba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\askba\\.nuget\\packages"
+    ]
+  }
+}
